@@ -1,3 +1,2 @@
-# Portfolio Nahuel61920 1.9.0 🖥️
-
-![preview img](/preview.png)
+# Portfolio Subhrajit Behera 🖥️
+live link : https://subhrjit.github.io/portfolio-subh/
