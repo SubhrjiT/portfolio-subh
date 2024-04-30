@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-subh/static/css/main.7eb8123a.css",
-    "main.js": "/portfolio-subh/static/js/main.7cb01df2.js",
+    "main.js": "/portfolio-subh/static/js/main.029d5e15.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-subh/static/js/453.1407b060.chunk.js",
     "static/media/Thumbs.db": "/portfolio-subh/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/cv.pdf": "/portfolio-subh/static/media/cv.c31881f516debb217e5c.pdf",
     "static/media/home.jpeg": "/portfolio-subh/static/media/home.47c1bd69aa89f8f20222.jpeg",
     "static/media/portfolio.png": "/portfolio-subh/static/media/portfolio.97edac8a07b1d1380050.png",
+    "static/media/proyecto-13-com.png": "/portfolio-subh/static/media/proyecto-13-com.798c1312c93abea278de.png",
     "static/media/Virtual Shopping.jpg": "/portfolio-subh/static/media/Virtual Shopping.1e9d51ad6f540b11c875.jpg",
     "static/media/sentiment_analysis.jpg": "/portfolio-subh/static/media/sentiment_analysis.abcb0c8d25d994f6c7b1.jpg",
     "static/media/House Predition.jpg": "/portfolio-subh/static/media/House Predition.fb4af5c83f630fe7944d.jpg",
     "index.html": "/portfolio-subh/index.html",
     "main.7eb8123a.css.map": "/portfolio-subh/static/css/main.7eb8123a.css.map",
-    "main.7cb01df2.js.map": "/portfolio-subh/static/js/main.7cb01df2.js.map",
+    "main.029d5e15.js.map": "/portfolio-subh/static/js/main.029d5e15.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-subh/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb8123a.css",
-    "static/js/main.7cb01df2.js"
+    "static/js/main.029d5e15.js"
   ]
 }
