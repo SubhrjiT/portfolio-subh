@@ -50,7 +50,7 @@ const Contact = () => (
                 </div>
             </a>
         
-            <a href="https://instagram.com/__xyro_" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://instagram.com/s_u__b_h" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
